@@ -1,5 +1,4 @@
 # Network Attack Detection with PySpark
-
 Distributed machine learning project for detecting malicious network activity, with a focus on DoS and PortScan attacks using the CICIDS2017 dataset.
 
 ## Overview
